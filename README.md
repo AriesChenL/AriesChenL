@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=307FB6&center=true&vCenter=true&width=480&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+lynn+%F0%9F%91%8B;Java+%2B+AI+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85" alt="typing" />
+# 你好，我是 lynn 👋
+
+### Java + AI 全栈开发者
 
 </div>
 
