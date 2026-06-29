@@ -26,7 +26,6 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AriesChenL&show_icons=true&hide_border=true&title_color=307FB6&icon_color=307FB6&include_all_commits=true&count_private=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriesChenL&layout=compact&hide_border=true&title_color=307FB6&langs_count=6" alt="top-langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=AriesChenL&show_icons=true&hide_border=true&title_color=307FB6&icon_color=307FB6&include_all_commits=true&count_private=true" alt="stats" />
 
 </div>
