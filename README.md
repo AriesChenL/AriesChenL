@@ -18,17 +18,3 @@
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### 🚀 代表项目
-
-- [**AriesMusic**](https://github.com/AriesChenL/AriesMusicPlayer) — 桌面音乐播放器,多音源解析 / 桌面歌词 / 远程控制（Electron · Vue3）
-- [**nook**](https://github.com/AriesChenL/nook) — IM + AI 微服务平台（Spring Boot 3.5 · JDK 25）
-- [**my-agentscope-java**](https://github.com/AriesChenL/my-agentscope-java) — AgentScope 的 Java 移植,ReAct 智能体 + Human-in-the-Loop
-- [**distributed-agentscope**](https://github.com/AriesChenL/distributed-agentscope) — 分布式智能体框架（Spring Boot · MongoDB）
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=AriesChenL&show_icons=true&hide_border=true&title_color=307FB6&icon_color=307FB6&count_private=true" alt="stats" />
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriesChenL&layout=compact&hide_border=true&title_color=307FB6&langs_count=8" alt="top-langs" />
-
-</div>
